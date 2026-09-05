@@ -1,7 +1,23 @@
-These are public Play policies, not app source.
+# Cyaniz Labs — public Play privacy pages
 
-Live pattern: https://cyanizlabs-glitch.github.io/play-policies/<slug>.html
+HTML only. No app source, keystores, or AABs.
 
-Existing: dutykin.html, biterover.html, proofgleam.html, sponsor-proof-live.html, dispatchpilot.html.
+**Live pattern:** `https://cyanizlabs-glitch.github.io/play-policies/<slug>.html`
 
-Added September 2, 2026: spryhaul.html, burewright.html, lumewalk.html, custkeep.html, scenloom.html, hoodreaver.html.
+| App | Package | Page |
+|---|---|---|
+| TraitHound™ | com.manifestedgenius.k9codex | [traithound.html](traithound.html) |
+| Dutykin | com.dutykin.app | [dutykin.html](dutykin.html) |
+| BiteRover | com.biterover.app | [biterover.html](biterover.html) |
+| Sponsor Proof Live | com.cyaniztech.sponsorprooflive | [sponsor-proof-live.html](sponsor-proof-live.html) |
+| Proofgleam | com.proofgleam.app | [proofgleam.html](proofgleam.html) |
+| Spryhaul | com.spryhaul.app | [spryhaul.html](spryhaul.html) |
+| Burewright | com.burewright.app | [burewright.html](burewright.html) |
+| Lumewalk | com.lumewalk.app | [lumewalk.html](lumewalk.html) |
+| Custkeep | com.custkeep.app | [custkeep.html](custkeep.html) |
+| Scenloom | com.scenloom.app | [scenloom.html](scenloom.html) |
+| Hood Reaver | com.hoodreaver.app | [hoodreaver.html](hoodreaver.html) |
+
+Also kept: `dispatchpilot.html` (old name; Spryhaul is the lockable Play brand).
+
+Publisher contact: cyanizlabs@gmail.com
