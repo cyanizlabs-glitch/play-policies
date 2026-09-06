@@ -7,17 +7,17 @@ HTML only. No app source, keystores, or AABs.
 | App | Package | Page |
 |---|---|---|
 | TraitHound™ | com.manifestedgenius.k9codex | [traithound.html](traithound.html) |
-| Dutykin | com.dutykin.app | [dutykin.html](dutykin.html) |
-| BiteRover | com.biterover.app | [biterover.html](biterover.html) |
-| Sponsor Proof Live | com.cyaniztech.sponsorprooflive | [sponsor-proof-live.html](sponsor-proof-live.html) |
-| Proofgleam | com.proofgleam.app | [proofgleam.html](proofgleam.html) |
-| Spryhaul | com.spryhaul.app | [spryhaul.html](spryhaul.html) |
-| Burewright | com.burewright.app | [burewright.html](burewright.html) |
-| Lumewalk | com.lumewalk.app | [lumewalk.html](lumewalk.html) |
-| Custkeep | com.custkeep.app | [custkeep.html](custkeep.html) |
-| Scenloom | com.scenloom.app | [scenloom.html](scenloom.html) |
-| Hood Reaver | com.hoodreaver.app | [hoodreaver.html](hoodreaver.html) |
+| Dutykin™ | com.dutykin.app | [dutykin.html](dutykin.html) |
+| BiteRover™ | com.biterover.app | [biterover.html](biterover.html) |
+| Sponsor Proof Live™ | com.cyaniztech.sponsorprooflive | [sponsor-proof-live.html](sponsor-proof-live.html) |
+| Proofgleam™ | com.proofgleam.app | [proofgleam.html](proofgleam.html) |
+| Spryhaul™ | com.spryhaul.app | [spryhaul.html](spryhaul.html) |
+| Burewright™ | com.burewright.app | [burewright.html](burewright.html) |
+| Lumewalk™ | com.lumewalk.app | [lumewalk.html](lumewalk.html) |
+| Custkeep™ | com.custkeep.app | [custkeep.html](custkeep.html) |
+| Scenloom™ | com.scenloom.app | [scenloom.html](scenloom.html) |
+| Hood Reaver™ | com.hoodreaver.app | [hoodreaver.html](hoodreaver.html) |
 
-Also kept: `dispatchpilot.html` (old name; Spryhaul is the lockable Play brand).
+Also kept: `dispatchpilot.html` (old name; Spryhaul™ is the lockable Play brand).
 
 Publisher contact: cyanizlabs@gmail.com
