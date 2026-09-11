@@ -17,6 +17,7 @@ HTML only. No app source, keystores, or AABs.
 | Custkeep™ | com.custkeep.app | [custkeep.html](custkeep.html) |
 | Scenloom™ | com.scenloom.app | [scenloom.html](scenloom.html) |
 | Hood Reaver™ | com.hoodreaver.app | [hoodreaver.html](hoodreaver.html) |
+| Aidgleam™ | com.aidgleam.app | [aidgleam.html](aidgleam.html) |
 | Attengleam™ | com.attengleam.app | [attengleam.html](attengleam.html) |
 
 Also kept: `dispatchpilot.html` (old name; Spryhaul™ is the lockable Play brand).
