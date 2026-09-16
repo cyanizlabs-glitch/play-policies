@@ -22,4 +22,5 @@
 | Pipegleam™ | com.pipegleam.app | [pipegleam.html](pipegleam.html) | |
 | Thermwright™ | com.thermwright.app | [thermwright.html](thermwright.html) | |
 | Voltkin™ | com.voltkin.app | [voltkin.html](voltkin.html) | |
+| STACKLEAF™ | com.cyanizlabs.stackleaf | [stackleaf.html](stackleaf.html) | study library; no sale of health data |
 | DispatchPilot | — | [dispatchpilot.html](dispatchpilot.html) | old name, see Spryhaul. |
