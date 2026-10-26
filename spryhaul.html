@@ -19,20 +19,46 @@
 <body>
 <main>
   <h1>Spryhaul™ Privacy Policy</h1>
-  <p class="muted">Last updated: September 15, 2026 · Publisher: Cyaniz Labs, LLC</p>
+  <p class="muted">Last updated: October 26, 2026 · Publisher: Cyaniz Labs, LLC</p>
   <div class="callout">
-    <strong>Not a medical device. Not HIPAA.</strong> Spryhaul is a business logistics app for sprinters, cargo vans, and box trucks. It does not diagnose, treat, handle specimens, or certify collectors. It is not a HIPAA-covered product and is not represented as HIPAA-certified.
+    <strong>Plain-language summary.</strong> In this version your run records stay on your phone, encrypted, and are not sent to Cyaniz Labs. You own them: you can export or delete any run, or everything, in the app. Spryhaul is a logistics record-keeping tool. It is not a medical device, and it makes no claim of HIPAA certification or compliance. Medical runs keep only the minimum necessary data (facility, time, signature, temperature note); do not type patient names or medication details.
   </div>
-  <h2>Information we collect</h2>
+  <p>Spryhaul ("we," "us," "our") provides freight matching, a mixed-day planner, and chain-of-custody proof records for small carriers who run freight, medical-courier, airport-luggage and document legs. Tagline: <em>The mile that pays.</em> This policy explains what the app stores, what it does not send anywhere, and how to delete it.</p>
+  <h2>Where your data lives</h2>
+  <p>This version runs entirely on your device. There is no Spryhaul cloud account and no server that receives your records. Runs, signatures, photos, temperature logs, driver credentials and settings are saved in on-device storage and encrypted at rest (AES-256-GCM, with a non-extractable key kept in the app's private storage). The bundled load board is <strong>demo data</strong>: Spryhaul does not connect to DAT, Truckstop or any live load feed in this version.</p>
+  <h2>Information the app handles</h2>
   <ul>
-    <li><strong>Account data:</strong> company name, work email, and password (stored hashed) if you create an account on a later hosted backend.</li>
-    <li><strong>Operational data you enter:</strong> vehicles, loads, dispatches, contracts, credentials, and notes you create to run your freight business.</li>
-    <li><strong>Device data:</strong> standard technical data (device type, app version) for crash diagnostics. We do not collect precise background location; any location use is limited to data you actively enter (city/state) unless a future release adds device location and discloses it here first.</li>
+    <li><strong>Run and custody records you enter:</strong> pickup and delivery points, times, receiver names, signatures, photos (sealed envelopes, bag tags, file stamps, delivery proof), temperature readings, exceptions, and notes. These belong to you, the carrier.</li>
+    <li><strong>Medical runs, minimum necessary:</strong> facility, time, signature and temperature note only. The app is built so it does not ask for patient names, diagnoses or medication details, and you should not enter them.</li>
+    <li><strong>Driver credential records:</strong> certificate names and expiry dates for your own drivers, used to show a route-ready badge.</li>
+    <li><strong>Camera photos and location stamps:</strong> when you take a proof photo or confirm a pickup or delivery, the app may attach your device's GPS reading to that record. It is stored in the run record on your phone. The app does not track you in the background.</li>
+    <li><strong>Customer phone numbers and emails you type</strong> so you can send delivery updates. They are stored in that run record on your phone.</li>
+    <li><strong>Optional anonymous lane summaries</strong> (ZIP-3 or city pair, rate, minutes, exceptions, retries). These are saved only on your device, only if you switch them on, and are never sent anywhere in this version. They never include names, signatures, photos or street addresses.</li>
   </ul>
-  <h2>How we use it</h2>
-  <p>Data you enter is used only to operate the app for you: matching vehicles to loads, keeping a day sheet, and generating operational records. We do not sell your data.</p>
-  <h2>Third parties</h2>
-  <p>We do not share operational data with third parties except service providers strictly necessary to run the app (e.g., hosting), under contractual confidentiality. The current closed-testing build may keep records on-device with no production backend.</p>
+  <h2>What we do not collect</h2>
+  <p>Cyaniz Labs does not receive your runs, photos, signatures, credentials, location or customer details. We do not sell data, we do not use advertising or analytics SDKs, and we do not train anything on your records. We do not do server-side learning: any "learning" is a summary computed on your own phone.</p>
+  <h2>Messages and sharing</h2>
+  <p>Customer updates, proof packets and PDFs are shared only when you tap send. The app opens your phone's own text, email or share sheet with the message already written; you press send. Spryhaul does not send texts or emails for you in this version, and there is no hosted customer tracking page yet.</p>
+  <h2>Permissions</h2>
+  <ul>
+    <li><strong>Camera</strong> — proof photos (sealed envelope, bag tag, delivery, exception). Photos stay in the run record on your phone.</li>
+    <li><strong>Location (approximate and precise)</strong> — an optional time-and-place stamp when you confirm pickup, handoff or delivery, used while you are using the app. No background location.</li>
+    <li><strong>Notifications</strong> — on-device reminders only: lane alerts you set, the STAT timer, and credential renewals. They are scheduled on your phone and cannot wake a closed app when a new load is posted elsewhere.</li>
+    <li><strong>Internet</strong> — used by the Android WebView to load the bundled app from the device, and by Google Play Billing if you subscribe. Fonts and scripts are bundled; the app does not call third-party servers to display your records.</li>
+  </ul>
+  <h2>Subscriptions</h2>
+  <p>If you buy a plan, payment is handled by Google Play Billing. We do not see your card details.</p>
+  <h2>Your control, retention and deletion</h2>
+  <ul>
+    <li><strong>Export:</strong> Data &amp; Privacy lets you export a single run or a whole day as a PDF proof packet, or everything as a JSON file.</li>
+    <li><strong>Delete:</strong> delete a single run, delete runs past your chosen retention period, or delete everything. Deleting removes the data from the device, including the encryption key. Uninstalling the app also removes it.</li>
+    <li><strong>Account deletion:</strong> there is no hosted account in this version. If a hosted account is added later, deleting it will also delete your records, and this policy will be updated before it ships.</li>
+    <li><strong>Consent:</strong> a plain-language consent screen is shown before you first use data features. You can change your choices in Data &amp; Privacy at any time.</li>
+  </ul>
+  <h2>Security</h2>
+  <p>Records are encrypted at rest on the device. If a hosted service is added in a future release, data in transit will use HTTPS/TLS and this policy will describe it first. No system is 100% secure; protect your phone with a screen lock.</p>
+  <h2>Your responsibilities</h2>
+  <p>Spryhaul is a record-keeping tool. You remain responsible for your own licensing, insurance, state pharmacy-board rules, driver credentials, and any privacy law that applies to the work you do. The in-app Credentials screen is general information, not legal advice.</p>
   <h2>Children</h2>
   <p>Spryhaul is a business tool intended for adult commercial carrier operators and is not directed at children under 13.</p>
   <h2>Changes</h2>
